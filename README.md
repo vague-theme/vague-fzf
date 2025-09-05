@@ -3,7 +3,9 @@
   <h1>Vague for Fzf</h1>
 </div>
 
-<!-- ## Usage -->
+## Usage
+
+Add flags from the [vague](vague) file to the `$FZF_DEFAULT_OPTS` environment variable or include them in the `$FZF_DEFAULT_OPTS_FILE`.
 
 ## Thanks to contributors
 
