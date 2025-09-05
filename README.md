@@ -1,6 +1,7 @@
 <div align="center">
   <img height="80" alt="icon" src="https://github.com/vague-theme/vague/blob/main/assets/icon.png?raw=true" />
   <h1>Vague for Fzf</h1>
+  <img alt="preview" src="https://github.com/user-attachments/assets/9007b881-68d5-46b5-9c9b-b6d585b67de8" />
 </div>
 
 ## Usage
