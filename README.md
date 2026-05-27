@@ -7,10 +7,3 @@
 ## Usage
 
 Add flags from the [vague](vague) file to the `$FZF_DEFAULT_OPTS` environment variable or include them in the `$FZF_DEFAULT_OPTS_FILE`.
-
-## Thanks to contributors
-
-- [pkazmier](https://github.com/pkazmier)
-- [vague2k](https://github.com/vague2k)
-- [skewb1k](https://github.com/skewb1k)
-
